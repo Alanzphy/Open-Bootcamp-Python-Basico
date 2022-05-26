@@ -17,7 +17,7 @@ Modifica la variable del anterior ejercicio en la consola de python y después m
 ### Ejercicio 1
 Para este ejercicio tenéis que crear en la consola de python variables que representen los siguientes datos de un contacto:
 * Nombre
-* pellidos
+* Apellidos
 * Edad
 * Email
 * Teléfono
