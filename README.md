@@ -37,3 +37,10 @@ Escribe un programa capaz de mostrar todos los números impares desde un número
 Por ejemplo: teniendo numero_inicial = 2 y numero_final = 8, el programa debe imprimir por consola: [3, 5, 7]
 ### Ejercicio 3
 Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden inverso.
+## 5.Funciones
+### Ejercicio 1
+Escribe una función que calcule el área de un triángulo, recibiendo la altura y la base como parámetros y otra función que calcule el área de un círculo recibiendo el radio del mismo.
+### Ejercicio 2
+Escribe una función que pueda decirte si un número (número entero) es primo o no.
+### Ejercicio 3
+Escribe una función que pueda decirte si un año (número entero) es bisiesto o no.
